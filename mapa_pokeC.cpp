@@ -63,7 +63,6 @@ int main()
   	posy = 1;
   
 	system("cls");
-  //cout << endl << endl;
  }
   while(cmd != 'n');
 }
