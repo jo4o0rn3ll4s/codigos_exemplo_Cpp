@@ -1,10 +1,13 @@
 #include<stdio.h>
 
+//inicio do main
 int main(){
 	
+	//declaracao das variaveis
 	int i = 0;
 	char resp[2];
 	
+	//inicio do laco
 	do{
 		i++;
 		printf("%i \n", i);
@@ -13,6 +16,7 @@ int main(){
 		
 		printf("\n\n");
 	}
+	//avaliacao da condicao de retorno
 	while(resp[0] != 'n');
 }
 
