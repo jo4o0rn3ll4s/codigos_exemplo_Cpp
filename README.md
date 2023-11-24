@@ -1,5 +1,9 @@
-# codigos_exemplo
-Repertorio de Códigos Escritos em C++ Utilizados em Aula no CVTI-NI
+# Guia Simples sobre C e C++
 
-Programas demonstrando as principais funções em C++ e como utiliza-las
-em novos projetos
+Desenvolvido para material de apoio aos alunos do CVTI-NI, visando auxiliar no aprendizado e entendimento da linguagem.
+
+## Orientações
+
+O repertório dos códigos demonstrando as principais funções em C e C++, estão separadas em por pastas, contendo em cada um arquivo do tipo ```.md``` em cada um deles para explicar brevemente sobre o objetivo do código descrito, juntamente de códigos exemplos para entender a funcionabilidade dos mesmos.
+
+---
