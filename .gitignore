@@ -1,0 +1,4 @@
+# pasta gerada ao compilar no vscode
+output/
+#arquivo executavel pós compilação
+*.exe
