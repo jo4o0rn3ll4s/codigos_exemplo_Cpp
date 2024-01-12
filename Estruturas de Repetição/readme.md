@@ -1,4 +1,4 @@
-# Estruturas de controle de fluxo por desisão
+# Estruturas de controle de fluxo por repetição
 
 ## For
 
